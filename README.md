@@ -1,6 +1,7 @@
 # LSFA  
 The code for our paper "Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification”.   
-
+Data downloading link
+https://drive.google.com/drive/folders/1ZY8kRXNPG3RAMAdKzQNzCv3qTNZadOql?usp=drive_link, we focus the sdoh dataset.
 ## Requirements  
 * python==3.7.10
 * numpy==1.21.2
